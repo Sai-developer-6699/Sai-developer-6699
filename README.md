@@ -15,7 +15,7 @@
 <div align="center">
   <a href="https://linkedin.com/in/sai-cheranjeeve-s-30081129b"><img src="https://img.shields.io/badge/LinkedIn-121214?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn" /></a>
   <a href="mailto:saicheranjeeves@gmail.com"><img src="https://img.shields.io/badge/Email-121214?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Email" /></a>
-  <img src="https://img.shields.io/badge/Console_Status-🟢%20Exploring%20Opportunities-121214?style=for-the-badge" alt="Status" />
+  <img src="https://img.shields.io/badge/Console_Status-🟢_Exploring_Opportunities-121214?style=for-the-badge" alt="Status" />
 </div>
 
 <br />
